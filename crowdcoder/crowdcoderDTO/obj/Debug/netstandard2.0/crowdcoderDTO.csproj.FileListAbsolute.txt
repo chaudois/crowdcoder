@@ -1,0 +1,8 @@
+/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoderDTO/bin/Debug/netstandard2.0/crowdcoderDTO.deps.json
+/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoderDTO/bin/Debug/netstandard2.0/crowdcoderDTO.dll
+/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoderDTO/bin/Debug/netstandard2.0/crowdcoderDTO.pdb
+/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoderDTO/obj/Debug/netstandard2.0/crowdcoderDTO.csproj.CoreCompileInputs.cache
+/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoderDTO/obj/Debug/netstandard2.0/crowdcoderDTO.AssemblyInfoInputs.cache
+/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoderDTO/obj/Debug/netstandard2.0/crowdcoderDTO.AssemblyInfo.cs
+/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoderDTO/obj/Debug/netstandard2.0/crowdcoderDTO.dll
+/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoderDTO/obj/Debug/netstandard2.0/crowdcoderDTO.pdb

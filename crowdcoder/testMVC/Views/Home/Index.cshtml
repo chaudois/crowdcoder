@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if(ViewBag.login==null){
+    <div class="login">
+        <h2>Vous etes déconnecté</h2>
+        <form method="POST" action="/home/register">
+            <input id="login" name="login" type="text" placeholder="login"/>
+            <br>
+            <input type="text" id="password" name="password"  placeholder="Mot de passe"/>
+            <br>
+            <input type="submit" value="Login">
+        </form>
+    </div>
+}else{
+    <div classe="accueil">
+        <h1>Bonjour!</h1>
+        <br>
+        <p>Vous etes connecté en temps que <b>@ViewBag.login</b></p>
+    </div>
+}
