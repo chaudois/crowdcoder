@@ -1,5 +1,6 @@
 ﻿using System;
 using crowdcoderDTO;
+ 
 namespace DataAccess
 {
     public class SqlServerAccess
@@ -9,6 +10,7 @@ namespace DataAccess
         }
         public User GetUserId(string login,string password){
             return new User(){login="Damien",password="root"};
+
         }
     }
 }

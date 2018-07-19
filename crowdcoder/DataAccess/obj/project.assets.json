@@ -193,7 +193,7 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {},
+    "/home/chaudois/.nuget/packages/": {},
     "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
@@ -202,14 +202,14 @@
       "projectUniqueName": "/home/chaudois/Documents/dotnetcore/crowdcoder/DataAccess/DataAccess.csproj",
       "projectName": "DataAccess",
       "projectPath": "/home/chaudois/Documents/dotnetcore/crowdcoder/DataAccess/DataAccess.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/chaudois/.nuget/packages/",
       "outputPath": "/home/chaudois/Documents/dotnetcore/crowdcoder/DataAccess/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/chaudois/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

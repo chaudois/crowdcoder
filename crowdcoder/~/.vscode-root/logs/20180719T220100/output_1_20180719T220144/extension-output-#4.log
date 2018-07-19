@@ -1,0 +1,45 @@
+Starting OmniSharp server at 2018-7-19 22:01:51
+    Target: /home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoder.sln
+
+OmniSharp server started
+    Path: /home/chaudois/.vscode/extensions/ms-vscode.csharp-1.15.2/.omnisharp/1.30.1/run
+    PID: 3594
+
+﻿[info]: OmniSharp.Stdio.Host
+        Starting OmniSharp on ubuntu 16.4 (x64)
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Located 1 MSBuild instance(s)
+            1: StandAlone 15.0 - "/home/chaudois/.vscode/extensions/ms-vscode.csharp-1.15.2/.omnisharp/1.30.1/omnisharp/msbuild/15.0/Bin"
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        MSBUILD_EXE_PATH environment variable set to '/home/chaudois/.vscode/extensions/ms-vscode.csharp-1.15.2/.omnisharp/1.30.1/omnisharp/msbuild/15.0/Bin/MSBuild.dll'
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Registered MSBuild instance: StandAlone 15.0 - "/home/chaudois/.vscode/extensions/ms-vscode.csharp-1.15.2/.omnisharp/1.30.1/omnisharp/msbuild/15.0/Bin"
+            MSBuildExtensionsPath = /home/chaudois/.vscode/extensions/ms-vscode.csharp-1.15.2/.omnisharp/1.30.1/omnisharp/msbuild
+            BypassFrameworkInstallChecks = true
+            CscToolPath = /home/chaudois/.vscode/extensions/ms-vscode.csharp-1.15.2/.omnisharp/1.30.1/omnisharp/msbuild/15.0/Bin/Roslyn
+            CscToolExe = csc.exe
+            MSBuildToolsPath = /home/chaudois/.vscode/extensions/ms-vscode.csharp-1.15.2/.omnisharp/1.30.1/omnisharp/msbuild/15.0/Bin
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Detecting Cake files in '/home/chaudois/Documents/dotnetcore/crowdcoder'.
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Could not find any Cake files
+[info]: OmniSharp.DotNet.DotNetProjectSystem
+        Initializing in /home/chaudois/Documents/dotnetcore/crowdcoder
+[info]: OmniSharp.DotNet.DotNetProjectSystem
+        Auto package restore: False
+[info]: OmniSharp.DotNet.DotNetProjectSystem
+        Update workspace context
+[info]: OmniSharp.DotNet.DotNetProjectSystem
+        Resolving projects references
+[info]: OmniSharp.MSBuild.ProjectSystem
+        Detecting projects in '/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoder.sln'.
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Detecting CSX files in '/home/chaudois/Documents/dotnetcore/crowdcoder'.
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Could not find any CSX files
+[info]: OmniSharp.Stdio.Host
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.CSharpWorkspaceOptionsProvider
+[info]: OmniSharp.Stdio.Host
+        Configuration finished.
+[info]: OmniSharp.Stdio.Host
+        Omnisharp server running using Stdio at location '/home/chaudois/Documents/dotnetcore/crowdcoder' on host 3495.

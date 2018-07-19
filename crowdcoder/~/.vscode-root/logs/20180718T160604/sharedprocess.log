@@ -1,0 +1,79 @@
+[2018-07-18 16:06:09.169] [sharedprocess] [info] main {"machineId":"1de7792ade9536a3e5d891dea2a6d27c61c2716ca6e812394d4cee792a3d9b3d"}
+[2018-07-18 16:06:09.656] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:09.944] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:09.955] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:09.975] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:10.421] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-18 16:06:10.422] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-18 16:06:10.428] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-18 16:06:11.595] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:11.772] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:12.906] [sharedprocess] [info] Installing extension: gitlens
+[2018-07-18 16:06:12.925] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:22.048] [sharedprocess] [info] Downloaded extension: gitlens
+[2018-07-18 16:06:23.875] [sharedprocess] [info] Extracted extension to /home/chaudois/.vscode/extensions/.eamodio.gitlens-8.5.1: eamodio.gitlens-8.5.1
+[2018-07-18 16:06:23.875] [sharedprocess] [info] Renamed to /home/chaudois/.vscode/extensions/eamodio.gitlens-8.5.1
+[2018-07-18 16:06:23.875] [sharedprocess] [info] Installation completed. eamodio.gitlens-8.5.1
+[2018-07-18 16:06:23.926] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2018-07-18 16:06:24.059] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:24.092] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-18 16:06:37.031] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:37.090] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:37.129] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:37.201] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-18 16:06:37.207] [sharedprocess] [info] Scanned system extensions: 70
+[2018-07-18 16:06:39.581] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:39.602] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:06:49.179] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-07-18 16:06:57.436] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:11:39.660] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:15:28.168] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:16:39.707] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:21:39.751] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:26:39.808] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:31:39.884] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:36:39.938] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:41:40.057] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:46:40.100] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:51:40.149] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 16:56:40.223] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 17:01:40.368] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 17:06:40.545] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 17:11:40.593] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 17:16:40.653] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 17:21:40.802] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 17:26:40.844] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 17:31:40.892] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 17:36:40.989] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 17:41:41.111] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 17:46:41.195] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 17:51:41.292] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 17:56:41.421] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 18:01:41.465] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 18:06:41.735] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 18:11:41.858] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 18:16:41.951] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 18:21:41.999] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 18:26:42.105] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 18:31:42.234] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 18:36:42.351] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 18:41:42.441] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 19:57:28.056] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 20:02:28.108] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 20:07:28.176] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 20:12:28.228] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 20:17:28.267] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 20:22:28.318] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 20:27:28.376] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 20:32:28.426] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 20:37:28.472] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 20:42:28.510] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 20:47:28.644] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 20:52:28.700] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 20:57:28.990] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 21:02:29.080] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 21:07:29.275] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 21:12:29.326] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 21:17:29.379] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 21:22:29.429] [sharedprocess] [info] Scanned user extensions: 4
+[2018-07-18 21:27:29.487] [sharedprocess] [info] Scanned user extensions: 4
