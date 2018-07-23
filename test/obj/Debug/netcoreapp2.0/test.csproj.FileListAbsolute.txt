@@ -1,0 +1,10 @@
+/home/chaudois/Documents/dotnetcore/test/bin/Debug/netcoreapp2.0/test.deps.json
+/home/chaudois/Documents/dotnetcore/test/bin/Debug/netcoreapp2.0/test.runtimeconfig.json
+/home/chaudois/Documents/dotnetcore/test/bin/Debug/netcoreapp2.0/test.runtimeconfig.dev.json
+/home/chaudois/Documents/dotnetcore/test/bin/Debug/netcoreapp2.0/test.dll
+/home/chaudois/Documents/dotnetcore/test/bin/Debug/netcoreapp2.0/test.pdb
+/home/chaudois/Documents/dotnetcore/test/obj/Debug/netcoreapp2.0/test.csproj.CoreCompileInputs.cache
+/home/chaudois/Documents/dotnetcore/test/obj/Debug/netcoreapp2.0/test.AssemblyInfoInputs.cache
+/home/chaudois/Documents/dotnetcore/test/obj/Debug/netcoreapp2.0/test.AssemblyInfo.cs
+/home/chaudois/Documents/dotnetcore/test/obj/Debug/netcoreapp2.0/test.dll
+/home/chaudois/Documents/dotnetcore/test/obj/Debug/netcoreapp2.0/test.pdb

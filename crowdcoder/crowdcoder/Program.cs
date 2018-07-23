@@ -19,8 +19,10 @@ namespace testMVC
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .UseKestrel()
                 .UseStartup<Startup>()
-                .UseUrls("http://localhost:5001")
+                .UseUrls("http://0.0.0.0:80")
+                .UseIISIntegration()
                 .Build();
     }
 }

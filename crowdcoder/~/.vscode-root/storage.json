@@ -133,7 +133,7 @@
         },
         "editor.action.commentLine": {
             "id": "editor.action.commentLine",
-            "label": "Ctrl+Shift+:",
+            "label": "Ctrl+Maj+:",
             "isNative": false
         },
         "editor.action.blockComment": {
@@ -218,7 +218,7 @@
         },
         "workbench.view.scm": {
             "id": "workbench.view.scm",
-            "label": "Ctrl+Shift+G G",
+            "label": "Ctrl+Maj+G G",
             "isNative": false
         },
         "workbench.view.debug": {
@@ -449,11 +449,26 @@
     },
     "theme": "vs-dark vscode-theme-defaults-themes-dark_plus-json",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/chaudois/Documents/dotnetcore",
+    "pickerWorkingDir": "/home/chaudois/Documents",
     "openedPathsList": {
         "workspaces": [
+            "/home/chaudois/Documents/dotnetcore",
             "/home/chaudois/Documents/dotnetcore/crowdcoder"
         ],
         "files": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderPath": "/home/chaudois/Documents/dotnetcore",
+            "backupPath": "/home/chaudois/Documents/dotnetcore/crowdcoder/~/.vscode-root/Backups/76f416f603e1fb8f4fc945bab2c1c74d",
+            "uiState": {
+                "mode": 0,
+                "x": 65,
+                "y": 24,
+                "width": 1855,
+                "height": 926
+            }
+        }
     }
 }

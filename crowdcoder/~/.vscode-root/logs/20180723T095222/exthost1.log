@@ -1,0 +1,16 @@
+[2018-07-23 09:52:32.870] [exthost1] [info] extension host started
+[2018-07-23 09:52:32.904] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-07-23 09:52:32.904] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-07-23 09:52:33.649] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-07-23 09:52:33.649] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-07-23 09:52:35.270] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-07-23 09:52:35.270] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-07-23 09:52:35.409] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-07-23 09:52:35.409] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-07-23 09:52:35.470] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-07-23 09:52:35.470] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/eamodio.gitlens-8.5.2/out/extension
+[2018-07-23 09:52:36.395] [exthost1] [info] ExtensionService#_doActivateExtension schneiderpat.aspnet-helper {"startup":true,"activationEvent":"*"}
+[2018-07-23 09:52:36.395] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/out/src/extension
+[2018-07-23 09:52:36.720] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":false,"activationEvent":"onLanguage:csharp"}
+[2018-07-23 09:52:36.720] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/ms-vscode.csharp-1.15.2/out/src/main
+[2018-07-23 09:52:42.475] [exthost1] [info] eager extensions activated

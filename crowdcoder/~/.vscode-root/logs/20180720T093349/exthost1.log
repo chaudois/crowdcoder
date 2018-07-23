@@ -1,0 +1,66 @@
+[2018-07-20 09:33:58.353] [exthost1] [info] extension host started
+[2018-07-20 09:33:58.385] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:33:58.385] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-07-20 09:33:58.865] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:33:58.868] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-07-20 09:33:59.427] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:33:59.427] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-07-20 09:33:59.488] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:33:59.488] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-07-20 09:33:59.543] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:33:59.543] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/eamodio.gitlens-8.5.1/out/extension
+[2018-07-20 09:34:00.552] [exthost1] [info] ExtensionService#_doActivateExtension schneiderpat.aspnet-helper {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:34:00.552] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/out/src/extension
+[2018-07-20 09:34:00.775] [exthost1] [info] eager extensions activated
+[2018-07-20 09:34:07.486] [exthost1] [info] extension host started
+[2018-07-20 09:34:07.547] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:34:07.547] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-07-20 09:34:07.721] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:34:07.721] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-07-20 09:34:08.012] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:34:08.012] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-07-20 09:34:08.031] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:34:08.031] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-07-20 09:34:08.047] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:34:08.047] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/eamodio.gitlens-8.5.1/out/extension
+[2018-07-20 09:34:08.328] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:34:08.328] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/ms-vscode.cpptools-0.17.7/out/src/main
+[2018-07-20 09:34:08.554] [exthost1] [info] ExtensionService#_doActivateExtension schneiderpat.aspnet-helper {"startup":true,"activationEvent":"*"}
+[2018-07-20 09:34:08.554] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/out/src/extension
+[2018-07-20 09:34:09.527] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":true,"activationEvent":"workspaceContains:*.csproj,*.sln,*.csx,*.cake,**/*.csproj,**/*.sln,**/*.csx,**/*.cake"}
+[2018-07-20 09:34:09.527] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/ms-vscode.csharp-1.15.2/out/src/main
+[2018-07-20 09:34:11.900] [exthost1] [info] eager extensions activated
+[2018-07-20 09:34:31.324] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-07-20 09:34:31.324] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/out/htmlMain
+[2018-07-20 12:20:00.422] [exthost1] [info] extension host started
+[2018-07-20 12:20:00.488] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-07-20 12:20:00.488] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-07-20 12:20:00.580] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-07-20 12:20:00.580] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-07-20 12:20:00.832] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-07-20 12:20:00.832] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-07-20 12:20:00.848] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-07-20 12:20:00.848] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-07-20 12:20:00.856] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-07-20 12:20:00.856] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/eamodio.gitlens-8.5.2/out/extension
+[2018-07-20 12:20:01.144] [exthost1] [info] ExtensionService#_doActivateExtension schneiderpat.aspnet-helper {"startup":true,"activationEvent":"*"}
+[2018-07-20 12:20:01.144] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/out/src/extension
+[2018-07-20 12:20:01.223] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":false,"activationEvent":"onLanguage:csharp"}
+[2018-07-20 12:20:01.223] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/ms-vscode.csharp-1.15.2/out/src/main
+[2018-07-20 12:20:01.932] [exthost1] [info] eager extensions activated
+[2018-07-20 12:20:13.341] [exthost1] [info] extension host started
+[2018-07-20 12:20:13.370] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-07-20 12:20:13.370] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-07-20 12:20:13.451] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-07-20 12:20:13.451] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-07-20 12:20:13.684] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-07-20 12:20:13.684] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-07-20 12:20:13.699] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-07-20 12:20:13.699] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-07-20 12:20:13.706] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-07-20 12:20:13.706] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/eamodio.gitlens-8.5.2/out/extension
+[2018-07-20 12:20:13.977] [exthost1] [info] ExtensionService#_doActivateExtension schneiderpat.aspnet-helper {"startup":true,"activationEvent":"*"}
+[2018-07-20 12:20:13.977] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/out/src/extension
+[2018-07-20 12:20:14.075] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":false,"activationEvent":"onLanguage:csharp"}
+[2018-07-20 12:20:14.075] [exthost1] [info] ExtensionService#loadCommonJSModule /home/chaudois/.vscode/extensions/ms-vscode.csharp-1.15.2/out/src/main
+[2018-07-20 12:20:14.727] [exthost1] [info] eager extensions activated
