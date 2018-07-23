@@ -12570,23 +12570,23 @@
     ]
   },
   "packageFolders": {
-    "/home/chaudois/.nuget/packages/": {},
+    "/root/.nuget/packages/": {},
     "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoder/testMVC.csproj",
+      "projectUniqueName": "/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/testMVC.csproj",
       "projectName": "testMVC",
-      "projectPath": "/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoder/testMVC.csproj",
-      "packagesPath": "/home/chaudois/.nuget/packages/",
-      "outputPath": "/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoder/obj/",
+      "projectPath": "/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/testMVC.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/chaudois/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12597,11 +12597,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/home/chaudois/Documents/dotnetcore/crowdcoder/DataAccess/DataAccess.csproj": {
-              "projectPath": "/home/chaudois/Documents/dotnetcore/crowdcoder/DataAccess/DataAccess.csproj"
+            "/root/projets/dotnet/codeshoper/crowdcoder/DataAccess/DataAccess.csproj": {
+              "projectPath": "/root/projets/dotnet/codeshoper/crowdcoder/DataAccess/DataAccess.csproj"
             },
-            "/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoderDTO/crowdcoderDTO.csproj": {
-              "projectPath": "/home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoderDTO/crowdcoderDTO.csproj"
+            "/root/projets/dotnet/codeshoper/crowdcoder/crowdcoderDTO/crowdcoderDTO.csproj": {
+              "projectPath": "/root/projets/dotnet/codeshoper/crowdcoder/crowdcoderDTO/crowdcoderDTO.csproj"
             }
           }
         }

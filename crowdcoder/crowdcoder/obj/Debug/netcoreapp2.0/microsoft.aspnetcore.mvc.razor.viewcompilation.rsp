@@ -1,0 +1,12 @@
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=testMVC
+--content-root=/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder
+--file=/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/Views/Home/About.cshtml
+--file=/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/Views/Home/Contact.cshtml
+--file=/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/Views/Home/Index.cshtml
+--file=/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/Views/Shared/Error.cshtml
+--file=/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/Views/Shared/_Layout.cshtml
+--file=/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/Views/_ViewImports.cshtml
+--file=/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/Views/_ViewStart.cshtml

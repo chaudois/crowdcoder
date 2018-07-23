@@ -36,3 +36,17 @@
 /home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoder/obj/Debug/netcoreapp2.0/testMVC.csproj.CoreCompileInputs.cache
 /home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoder/obj/Debug/netcoreapp2.0/testMVC.AssemblyInfoInputs.cache
 /home/chaudois/Documents/dotnetcore/crowdcoder/crowdcoder/obj/Debug/netcoreapp2.0/testMVC.AssemblyInfo.cs
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/bin/Debug/netcoreapp2.0/testMVC.deps.json
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/bin/Debug/netcoreapp2.0/testMVC.runtimeconfig.json
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/bin/Debug/netcoreapp2.0/testMVC.runtimeconfig.dev.json
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/bin/Debug/netcoreapp2.0/testMVC.dll
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/bin/Debug/netcoreapp2.0/testMVC.pdb
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/bin/Debug/netcoreapp2.0/crowdcoderDTO.dll
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/bin/Debug/netcoreapp2.0/DataAccess.dll
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/bin/Debug/netcoreapp2.0/DataAccess.pdb
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/bin/Debug/netcoreapp2.0/crowdcoderDTO.pdb
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/obj/Debug/netcoreapp2.0/testMVC.csproj.CoreCompileInputs.cache
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/obj/Debug/netcoreapp2.0/testMVC.AssemblyInfoInputs.cache
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/obj/Debug/netcoreapp2.0/testMVC.AssemblyInfo.cs
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/obj/Debug/netcoreapp2.0/testMVC.dll
+/root/projets/dotnet/codeshoper/crowdcoder/crowdcoder/obj/Debug/netcoreapp2.0/testMVC.pdb

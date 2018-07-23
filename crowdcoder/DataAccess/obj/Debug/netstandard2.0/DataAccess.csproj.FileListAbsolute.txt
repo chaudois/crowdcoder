@@ -16,3 +16,13 @@
 /home/chaudois/Documents/dotnetcore/crowdcoder/DataAccess/obj/Debug/netstandard2.0/DataAccess.AssemblyInfo.cs
 /home/chaudois/Documents/dotnetcore/crowdcoder/DataAccess/obj/Debug/netstandard2.0/DataAccess.dll
 /home/chaudois/Documents/dotnetcore/crowdcoder/DataAccess/obj/Debug/netstandard2.0/DataAccess.pdb
+/root/projets/dotnet/codeshoper/crowdcoder/DataAccess/bin/Debug/netstandard2.0/DataAccess.deps.json
+/root/projets/dotnet/codeshoper/crowdcoder/DataAccess/bin/Debug/netstandard2.0/DataAccess.dll
+/root/projets/dotnet/codeshoper/crowdcoder/DataAccess/bin/Debug/netstandard2.0/DataAccess.pdb
+/root/projets/dotnet/codeshoper/crowdcoder/DataAccess/bin/Debug/netstandard2.0/crowdcoderDTO.dll
+/root/projets/dotnet/codeshoper/crowdcoder/DataAccess/bin/Debug/netstandard2.0/crowdcoderDTO.pdb
+/root/projets/dotnet/codeshoper/crowdcoder/DataAccess/obj/Debug/netstandard2.0/DataAccess.csproj.CoreCompileInputs.cache
+/root/projets/dotnet/codeshoper/crowdcoder/DataAccess/obj/Debug/netstandard2.0/DataAccess.AssemblyInfoInputs.cache
+/root/projets/dotnet/codeshoper/crowdcoder/DataAccess/obj/Debug/netstandard2.0/DataAccess.AssemblyInfo.cs
+/root/projets/dotnet/codeshoper/crowdcoder/DataAccess/obj/Debug/netstandard2.0/DataAccess.dll
+/root/projets/dotnet/codeshoper/crowdcoder/DataAccess/obj/Debug/netstandard2.0/DataAccess.pdb
