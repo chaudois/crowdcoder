@@ -1,8 +1,0 @@
-/root/projets/dotnet/codeshoper/crowdcoder/crowdcoderDTO/bin/Release/netstandard2.0/crowdcoderDTO.deps.json
-/root/projets/dotnet/codeshoper/crowdcoder/crowdcoderDTO/bin/Release/netstandard2.0/crowdcoderDTO.dll
-/root/projets/dotnet/codeshoper/crowdcoder/crowdcoderDTO/bin/Release/netstandard2.0/crowdcoderDTO.pdb
-/root/projets/dotnet/codeshoper/crowdcoder/crowdcoderDTO/obj/Release/netstandard2.0/crowdcoderDTO.csproj.CoreCompileInputs.cache
-/root/projets/dotnet/codeshoper/crowdcoder/crowdcoderDTO/obj/Release/netstandard2.0/crowdcoderDTO.AssemblyInfoInputs.cache
-/root/projets/dotnet/codeshoper/crowdcoder/crowdcoderDTO/obj/Release/netstandard2.0/crowdcoderDTO.AssemblyInfo.cs
-/root/projets/dotnet/codeshoper/crowdcoder/crowdcoderDTO/obj/Release/netstandard2.0/crowdcoderDTO.dll
-/root/projets/dotnet/codeshoper/crowdcoder/crowdcoderDTO/obj/Release/netstandard2.0/crowdcoderDTO.pdb
